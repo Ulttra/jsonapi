@@ -1,7 +1,7 @@
 ﻿{
 "fnlsorular" : [
 {
-      'soru': 'Yukarıdaki logo hangi üniversiteye aittir?',
+      "soru": "Yukarıdaki logo hangi üniversiteye aittir?",
       "sika" : "KTÜN",
       "sikb" : "Selcuk",
       "sikc" : "KTÜ",
