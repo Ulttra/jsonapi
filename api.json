@@ -1,5 +1,13 @@
 ﻿{
 "fnlsorular" : [
+{
+      'soru': 'Yukarıdaki logo hangi üniversiteye aittir?',
+      "sika" : "KTÜN",
+      "sikb" : "Selcuk",
+      "sikc" : "KTÜ",
+      "sikd" : "Gazi",
+      "cevap":"Selçuk"
+    },
     {
       "soru" : "Yunan mitolojisinde Eros ok atarak insanların birbirlerine hangisini hissetmesini sağlar?",
       "sika" : "Aşk",
@@ -8,5 +16,6 @@
       "sikd" : "Sabır",
       "cevap":"Aşk"
     }
+
 ]
 }
