@@ -14,8 +14,15 @@
       "sikb" : "Şefkat",
       "sikc" : "Güven",
       "sikd" : "Sabır",
-      "cevap":"Aşk"
-    }
-
+      "cevap": "Aşk"
+    },
+{
+      "soru" : "Resimdeki çizgi film karakterinin adı nedir?",
+      "sika" : "Pepe",
+      "sikb" : "Jerry",
+      "sikc" : "İbi",
+      "sikd" : "Tom",
+      "cevap": "Tom"
+    },
 ]
 }
