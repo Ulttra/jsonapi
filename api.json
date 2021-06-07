@@ -29,7 +29,8 @@
       "sika" : "Skeleton",
       "sikb" : "Pentatlon",
       "sikc" : "Slalom",
-      "sikd" : "Maraton"
+      "sikd" : "Maraton",
+      "cevap":"Slalom"
     }
 ]
 }
