@@ -23,6 +23,13 @@
       "sikc" : "İbi",
       "sikd" : "Tom",
       "cevap": "Tom"
+    },
+{
+      "soru" : "Belli kurallara göre ve zikzaklar çizerek yapılan kayak yarışı hangisidir?",
+      "sika" : "Skeleton",
+      "sikb" : "Pentatlon",
+      "sikc" : "Slalom",
+      "sikd" : "Maraton"
     }
 ]
 }
