@@ -31,38 +31,6 @@
       "sikc" : "Slalom",
       "sikd" : "Maraton",
       "cevap": "Slalom"
-    },
-{
-      "soru" : "Azaerbaycanın başkenti neresidir?",
-      "sika" : "Bakü",
-      "sikb" : "Şuşa",
-      "sikc" : "Gence",
-      "sikd" : "Karabağ",
-      "cevap": "Bakü"
-    },
-{
-      "soru" : "He ile gösterilen element?",
-      "sika" : "Azot",
-      "sikb" : "Hidrojen",
-      "sikc" : "Helyum",
-      "sikd" : "Altın",
-      "cevap": "Helyum"
-    },
-{
-      "soru" : "Her kenearı eşit olan dörtgen?",
-      "sika" : "Kare",
-      "sikb" : "Elips",
-      "sikc" : "Çember",
-      "sikd" : "Yamuk",
-      "cevap": "Kare"
-    },
-{
-      "soru" : "Selçuk Üniversitesi nerdedir?",
-      "sika" : "Ankara",
-      "sikb" : "İzmir",
-      "sikc" : "Konya,
-      "sikd" : "Uşak",
-      "cevap": "Slalom"
     }
 ]
 }
