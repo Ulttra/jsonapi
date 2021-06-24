@@ -33,7 +33,15 @@
       "cevap": "Slalom"
     },
 {
-      "soru" : "Azaerbaycanın başkenti neresidir?",
+      "soru" : "He ile gösterilen element?",
+      "sika" : "Azot",
+      "sikb" : "Hidrojen",
+      "sikc" : "Helyum",
+      "sikd" : "Altın",
+      "cevap": "Helyum"
+    },
+{
+      "soru" : "Azerbaycanın başkenti neresidir?",
       "sika" : "Bakü",
       "sikb" : "Şuşa",
       "sikc" : "Gence",
