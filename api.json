@@ -31,6 +31,14 @@
       "sikc" : "Slalom",
       "sikd" : "Maraton",
       "cevap": "Slalom"
+    },
+{
+      "soru" : "Azaerbaycanın başkenti neresidir?",
+      "sika" : "Bakü",
+      "sikb" : "Şuşa",
+      "sikc" : "Gence",
+      "sikd" : "Karabağ",
+      "cevap": "Bakü"
     }
 ]
 }
