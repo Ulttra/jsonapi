@@ -55,6 +55,14 @@
       "sikc" : "Çember",
       "sikd" : "Yamuk",
       "cevap": "Kare"
+    },
+{
+      "soru" : "Selçuk Üniversitesi nerdedir?",
+      "sika" : "Ankara",
+      "sikb" : "İzmir",
+      "sikc" : "Konya,
+      "sikd" : "Uşak",
+      "cevap": "Konya"
     }
 ]
 }
