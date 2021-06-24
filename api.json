@@ -47,6 +47,14 @@
       "sikc" : "Gence",
       "sikd" : "Karabağ",
       "cevap": "Bakü"
+    },
+{
+      "soru" : "Her kenearı eşit olan dörtgen?",
+      "sika" : "Kare",
+      "sikb" : "Elips",
+      "sikc" : "Çember",
+      "sikd" : "Yamuk",
+      "cevap": "Kare"
     }
 ]
 }
