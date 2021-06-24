@@ -57,12 +57,12 @@
       "cevap": "Kare"
     },
 {
-      "soru" : "Selçuk Üniversitesi nerdedir?",
-      "sika" : "Ankara",
-      "sikb" : "İzmir",
-      "sikc" : "Konya,
-      "sikd" : "Uşak",
-      "cevap": "Konya"
+      "soru" : "Her kenearı eşit olan dörtgen?",
+      "sika" : "Kare",
+      "sikb" : "Elips",
+      "sikc" : "Çember",
+      "sikd" : "Yamuk",
+      "cevap": "Kare"
     }
 ]
 }
