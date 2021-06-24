@@ -57,12 +57,12 @@
       "cevap": "Kare"
     },
 {
-      "soru" : "Selçuk Üniversitesi nerededir?",
-      "sika" : "Ankara",
-      "sikb" : "İzmir",
-      "sikc" : "Konya,
-      "sikd" : "Uşak",
-      "cevap": "Konya"
+      "soru" : "Üçgnin iç açıları toplamı kaçtır?",
+      "sika" : "360",
+      "sikb" : "180",
+      "sikc" : "90",
+      "sikd" : "270",
+      "cevap": "180"
     }
 ]
 }
